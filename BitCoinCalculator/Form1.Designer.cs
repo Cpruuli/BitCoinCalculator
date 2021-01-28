@@ -34,7 +34,7 @@ namespace BitCoinCalculator
             this.getRatesBtn = new System.Windows.Forms.Button();
             this.amountOfBtc = new System.Windows.Forms.TextBox();
             this.result = new System.Windows.Forms.TextBox();
-            this.resultbl = new System.Windows.Forms.Label();
+            this.resultLbl = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // currencyMenu
@@ -74,15 +74,15 @@ namespace BitCoinCalculator
             this.result.TabIndex = 3;
             this.result.Visible = false;
             // 
-            // resultbl
+            // resultLbl
             // 
-            this.resultbl.AutoSize = true;
-            this.resultbl.Location = new System.Drawing.Point(74, 143);
-            this.resultbl.Name = "resultbl";
-            this.resultbl.Size = new System.Drawing.Size(37, 13);
-            this.resultbl.TabIndex = 4;
-            this.resultbl.Text = "Result";
-            this.resultbl.Visible = false;
+            this.resultLbl.AutoSize = true;
+            this.resultLbl.Location = new System.Drawing.Point(74, 143);
+            this.resultLbl.Name = "resultLbl";
+            this.resultLbl.Size = new System.Drawing.Size(37, 13);
+            this.resultLbl.TabIndex = 4;
+            this.resultLbl.Text = "Result";
+            this.resultLbl.Visible = false;
             // 
             // Form1
             // 
@@ -90,7 +90,7 @@ namespace BitCoinCalculator
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.resultbl);
+            this.Controls.Add(this.resultLbl);
             this.Controls.Add(this.result);
             this.Controls.Add(this.amountOfBtc);
             this.Controls.Add(this.getRatesBtn);
@@ -108,7 +108,7 @@ namespace BitCoinCalculator
         private System.Windows.Forms.Button getRatesBtn;
         private System.Windows.Forms.TextBox amountOfBtc;
         private System.Windows.Forms.TextBox result;
-        private System.Windows.Forms.Label resultbl;
+        private System.Windows.Forms.Label resultLbl;
     }
 }
 
