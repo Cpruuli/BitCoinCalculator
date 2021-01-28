@@ -1,0 +1,10 @@
+C:\Users\Clen\source\repos\BitCoinCalculator\BitCoinCalculator\bin\Debug\BitCoinCalculator.exe.config
+C:\Users\Clen\source\repos\BitCoinCalculator\BitCoinCalculator\bin\Debug\BitCoinCalculator.exe
+C:\Users\Clen\source\repos\BitCoinCalculator\BitCoinCalculator\bin\Debug\BitCoinCalculator.pdb
+C:\Users\Clen\source\repos\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.csprojAssemblyReference.cache
+C:\Users\Clen\source\repos\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.Form1.resources
+C:\Users\Clen\source\repos\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.Properties.Resources.resources
+C:\Users\Clen\source\repos\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.csproj.GenerateResource.cache
+C:\Users\Clen\source\repos\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Clen\source\repos\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.exe
+C:\Users\Clen\source\repos\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.pdb
